@@ -1,6 +1,5 @@
 <p align="center" width="100%">
-![utm](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/logo-utm.png?raw=true)
-![jpmpp](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/jpmpp.png?raw=true)
+![utmxjpmpp](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/logo-utmxjpmpp.png?raw=true)
 </p>
 
 # Installation Manual
