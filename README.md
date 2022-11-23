@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-![utm](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/logo-utmxjpmpp.png?raw=true<img src="https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/logo-utmxjpmpp.png?raw=true" alt="test">)
+<img src="https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/logo-utmxjpmpp.png?raw=true" alt="utmxjpmpp">)
 </p>
 
 # Installation Manual
