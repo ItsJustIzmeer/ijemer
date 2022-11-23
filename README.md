@@ -1,18 +1,66 @@
-<p align="center">
-<img src="https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/logo-utmxjpmpp.png?raw=true" alt="test">
+<p align="center" width="100%">
+![utm](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/logo-utm.png?raw=true)
+![jpmpp](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/jpmpp.png?raw=true)
 </p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# Installation Manual
 
-## Installation Manual
+## Install Node.js
 
-1. testing
-testing
+**Step 1: Download the Installer**
+    
+Download the Windows Installer from [NodeJs official website](https://nodejs.org/en/download/). Make sure you have downloaded the latest version of NodeJs. 
+
+![install-nodejs](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/installation/nodejs/install-nodejs.png?raw=true)
+    
+The LTS (Long-term Support) version is highly recommended for you. After the download of the installer package, install it with a double-click on it.
+
+Now .msi file will be downloaded to your browser. Choose the desired location for that.
+
+**Step 2: Install Node.js**
+
+![install-nodejs-2](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/installation/nodejs/install-nodejs-2.png?raw=true)
+
+After choosing the path, double-click to install .msi binary files to initiate the installation process. Then give access to run the application.
+
+You will get a welcome message on your screen and click the “Next” button. The installation process will start.
+
+- Choose the desired path where you want to install Node.js.
+
+![install-nodejs-3](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/installation/nodejs/install-nodejs-3.png?raw=true)
+
+- By clicking on the Next button, you will get a custom page setup on the screen. Make sure you choose npm package manager , not the default of Node.js runtime . This way, we can install Node and NPM simultaneously.
+
+You should have 143MB of space to install Node.js and npm features.
+
+The following features will be installed by default:
+
+- Node.js runtime
+- Npm package manager
+- Online documentation shortcuts
+- Add to Path
+
+![install-nodejs-4](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/installation/nodejs/install-nodejs-4.png?raw=true)
+
+- The setup is ready to install Node and NPM. Let’s click on the Install button.
+
+![install-nodejs-5](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/installation/nodejs/install-nodejs-5.png?raw=true)
+    
+**Step 3: Check Node.js version**
+- If you have a doubt whether you have installed everything correctly or not, let’s verify it with “Command Prompt”.
+
+![install-nodejs-6](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/installation/nodejs/install-nodejs-6.png?raw=true)
+
+Command Prompt window will appear on the screen.
+
+To confirm Node installation, type node -v command.
+    
+![install-nodejs-7](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/installation/nodejs/install-nodejs-7.png?raw=true)
+
+## Install XAMPP
+
+
+3. Install
 
 
 ## Link of Github
@@ -22,9 +70,8 @@ testing
 [UndiUTMKL]()
 
 ## LIST OF USERNAME AND PASSWORD
-username 
 
-password
+
 
 ## About Laravel
 
@@ -81,3 +128,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
