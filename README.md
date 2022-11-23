@@ -1,6 +1,5 @@
-<p align="center"><img src="https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/logo-utmxjpmpp.png?raw=true" alt="test">
-![utm](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/logo-utm.png?raw=true)
-![jpmpp](https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/jpmpp.png?raw=true)
+<p align="center">
+<img src="https://github.com/syiraazhari/SD_SEC01_G04_01/blob/main/public/assets/img/logo-utmxjpmpp.png?raw=true" alt="test">
 </p>
 
 <p align="center">
@@ -9,6 +8,23 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+## Installation Manual
+
+1. testing
+testing
+
+
+## Link of Github
+[Github](https://github.com/syiraazhari/SD_SEC01_G04_01)
+
+## Link of the Website
+[UndiUTMKL]()
+
+## LIST OF USERNAME AND PASSWORD
+username 
+
+password
 
 ## About Laravel
 
